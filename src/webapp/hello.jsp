@@ -4,13 +4,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
 
-  <h2> JSP build</h2>
-  Request user agent: <%= request.getHeader("User-Agent") %>
 
-  <br/><br/>
+  <h2>Hello world</h2>
 
-  Request language : <%= request.getLocale()%>
   </body>
 </html>
